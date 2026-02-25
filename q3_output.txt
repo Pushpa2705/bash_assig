@@ -1,0 +1,9 @@
+Total lines:
+3 sample.log
+Error count:
+1
+Warning count:
+1
+Unique IPs:
+192.168.1.1
+192.168.1.2

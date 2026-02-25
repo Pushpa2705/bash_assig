@@ -1,0 +1,35 @@
+USER REPORT
+All users:
+root
+daemon
+bin
+sys
+sync
+games
+man
+lp
+mail
+news
+uucp
+proxy
+www-data
+backup
+list
+irc
+_apt
+nobody
+systemd-network
+systemd-timesync
+dhcpcd
+messagebus
+syslog
+systemd-resolve
+uuidd
+landscape
+polkitd
+push_echnologies
+Currently logged users:
+push_echnologies pts/1        2026-02-25 10:05
+Users with UID 0:
+root
+Users without password:
