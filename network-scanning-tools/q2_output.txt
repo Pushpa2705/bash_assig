@@ -1,0 +1,34 @@
+1.Create File
+2.Delete File
+3.List Files
+4.Create Directory
+5.Exit
+1.Create File
+2.Delete File
+3.List Files
+4.Create Directory
+5.Exit
+backup
+myfolder
+outputname.txt
+q1_output.txt
+q1_system_info.sh
+q2_file_manager.sh
+q2_output.txt
+q3_log_analyzer.sh
+q3_output.txt
+q4_backup.sh
+q5_user_report.sh
+sample.log
+source
+test.txt
+1.Create File
+2.Delete File
+3.List Files
+4.Create Directory
+5.Exit
+1.Create File
+2.Delete File
+3.List Files
+4.Create Directory
+5.Exit
