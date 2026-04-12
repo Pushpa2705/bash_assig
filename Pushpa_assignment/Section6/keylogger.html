@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<input type="text" id="input">
+<p id="output"></p>
+<script>
+document.getElementById("input").addEvenListener("keyup",function(e){
+document.getElementById("output").innerText+=e.key;
+});
+</script>
+</body>
+</html>
+

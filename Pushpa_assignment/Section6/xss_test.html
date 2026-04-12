@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3>XSS Test Page</h3>
+<input type="text" id="input">
+<button onclick="show()">Submit</button>
+<p id="output"></p>
+<script>
+function show(){
+var data=document.getElementById("input").value;
+document.getElementById("output").innerHTML=data;
+}
+</script>
+</body>
+</html>
+
